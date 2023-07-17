@@ -1,0 +1,6 @@
+C:\Users\Claudio\source\repos\MedidoresWeb\MedidoresWebModel\bin\Debug\MedidoresWebModel.dll
+C:\Users\Claudio\source\repos\MedidoresWeb\MedidoresWebModel\bin\Debug\MedidoresWebModel.pdb
+C:\Users\Claudio\source\repos\MedidoresWeb\MedidoresWebModel\obj\Debug\MedidoresWebModel.csproj.AssemblyReference.cache
+C:\Users\Claudio\source\repos\MedidoresWeb\MedidoresWebModel\obj\Debug\MedidoresWebModel.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\MedidoresWeb\MedidoresWebModel\obj\Debug\MedidoresWebModel.dll
+C:\Users\Claudio\source\repos\MedidoresWeb\MedidoresWebModel\obj\Debug\MedidoresWebModel.pdb
